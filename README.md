@@ -4,8 +4,6 @@ Production inventory management system for used auto parts business with OLX mar
 
 **Note**: This repository showcases the system architecture and design. Source code is proprietary.
 
-Demo: https://partstock.xyz
-
 ## Business Impact
 
 - Managing **2000+ inventory units** across **1400+ product types**
@@ -56,20 +54,20 @@ The system handles the complete workflow for a used auto parts business:
 ## Screenshots
 
 ### Product Management
-![Product Detail](screenshots/product.jpeg)
 *Product view showing units in stock, compatibility management, and specifications*
+![Product Detail](screenshots/product.jpeg)
 
 ### Search Functionality
-![Search Results](screenshots/search.jpeg)
 *Fast search returning both products and individual units*
+![Search Results](screenshots/search.jpeg)
 
 ### OLX Integration
-![OLX Drafts](screenshots/olx_drafts.jpeg)
 *Pre-publication review showing prepared advertisements with validation*
+![OLX Drafts](screenshots/olx_drafts.jpeg)
 
 ### Mobile Interface
-![Mobile Unit View](screenshots/unit_mobile.jpeg)
 *Responsive design for mobile inventory management*
+![Mobile Unit View](screenshots/unit_mobile.jpeg)
 
 ## Architecture Highlights
 
