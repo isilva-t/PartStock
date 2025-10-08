@@ -4,6 +4,8 @@ Production inventory management system for used auto parts business with OLX mar
 
 **Note**: This repository showcases the system architecture and design. Source code is proprietary.
 
+![DEMO](screenshots/wharehouse.jpeg)
+
 ## Business Impact
 
 - Managing **2000+ inventory units** across **1400+ product types**
