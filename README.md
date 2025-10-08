@@ -4,7 +4,7 @@ Production inventory management system for used auto parts business with OLX mar
 
 **Note**: This repository showcases the system architecture and design. Source code is proprietary.
 
-![DEMO](screenshots/wharehouse.jpeg)
+![DEMO](screenshots/warehouse.jpg)
 
 ## Business Impact
 
